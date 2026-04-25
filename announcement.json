@@ -1,12 +1,12 @@
 {
-  "id": "20260426001",
+  "id": "20260426002",
   "enabled": true,
   "title": {
-    "zh": "重要公告",
+    "zh": "重要指令",
     "en": "Important Notice"
   },
   "content": {
-    "zh": "# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。",
+    "zh": "# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。# OCR 功能更新\n\n**本次更新提升了 OCR 识别稳定性。**\n\n请重新进入设置，点击 `框选识别区域`，把游戏左上角战备栏文字区域框起来。\n\n主动换行示例：\n第一行内容\n第二行内容\n\n```text\n这里可以放代码块、配置示例或快捷键说明\nOCR 热键：F8\n```\n\n感谢使用 HD2 Trigger。",
     "en": "# OCR Update\n\n**This update improves OCR recognition stability.**\n\nPlease open settings, click `Select Region`, and select the in-game stratagem text area in the upper-left corner.\n\nManual line break example:\nLine one\nLine two\n\n```text\nYou can put code blocks, config examples, or hotkey notes here.\nOCR hotkey: F8\n```\n\nThanks for using HD2 Trigger."
   },
   "level": "info",
