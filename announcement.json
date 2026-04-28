@@ -1,13 +1,13 @@
 {
-  "id": "20260428001",
+  "id": "20260428002",
   "enabled": true,
   "title": {
-    "zh": "“最高指令",
+    "zh": "最高指令",
     "en": "TopOrder"
   },
   "content": {
-    "zh": "目前的新战备图标是临时版本，在Wiki推送完整新图标SVG后会更新，届时会有提示。",
-    "en": "The current new stratagem icons are temporary versions. They will be updated once the Wiki pushes the full set of new SVG icons, and a notification will be provided at that time."
+    "zh": "OCR目前仍为beta测试功能，有任何问题去github提issue或者B站私信。OCR目前只支持官方中文。",
+    "en": "OCR is currently a beta feature. If you encounter any issues, please submit an issue on GitHub or send a private message on Bilibili. OCR currently only supports official Chinese."
   },
   "level": "info",
   "startAt": "2026-04-25T00:00:00+08:00",
