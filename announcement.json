@@ -1,12 +1,12 @@
 {
-  "id": "20260428002",
+  "id": "20260428003",
   "enabled": true,
   "title": {
     "zh": "最高指令",
     "en": "TopOrder"
   },
   "content": {
-    "zh": "OCR目前仍为beta测试功能，有任何问题去github提issue或者B站私信。OCR目前只支持官方中文。",
+    "zh": "OCR目前存在文件缺失问题，正在紧急修复中。",
     "en": "OCR is currently a beta feature. If you encounter any issues, please submit an issue on GitHub or send a private message on Bilibili. OCR currently only supports official Chinese."
   },
   "level": "info",
