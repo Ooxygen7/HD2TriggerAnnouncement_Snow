@@ -1,13 +1,13 @@
 {
-  "id": "20260428004",
+  "id": "20260501001",
   "enabled": true,
   "title": {
-    "zh": "最高指令",
-    "en": "TopOrder"
+    "zh": "欢庆节日",
+    "en": "Celebrate the festival"
   },
   "content": {
-    "zh": "如果您的辅助在按ocr快捷键时报错缺失文件，请去github或夸克下载1.4.3版本。",
-    "en": "If your assistive tool reports missing files when pressing the OCR shortcut key, please go to GitHub or Quark to download version 1.4.3."
+    "zh": "祝所有潜兵五一劳动节假期快乐！",
+    "en": "Wishing all divers a happy May Day holiday!"
   },
   "level": "info",
   "startAt": "2026-04-25T00:00:00+08:00",
