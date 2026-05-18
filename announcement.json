@@ -1,13 +1,13 @@
 {
-  "id": "20260501001",
+  "id": "20260518001",
   "enabled": true,
   "title": {
-    "zh": "欢庆节日",
-    "en": "Celebrate the festival"
+    "zh": "最高指令",
+    "en": "Highest command"
   },
   "content": {
-    "zh": "祝所有潜兵五一劳动节假期快乐！",
-    "en": "Wishing all divers a happy May Day holiday!"
+    "zh": "已就部分逻辑做出修复，此修复已被应用，无需您手动更新。",
+    "en": "Some logical fixes have been made and applied. No manual update is required."
   },
   "level": "info",
   "startAt": "2026-04-25T00:00:00+08:00",
